@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/LeodominickGarpida/3-column-preview-card-component)
+- Live Site URL: [live site](https://leodominickgarpida.github.io/3-column-preview-card-component/)
 
 ## Author
 
