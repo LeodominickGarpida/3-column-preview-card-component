@@ -35,7 +35,7 @@ Users should be able to:
 ## Author
 
 - Website - [Leo Dominick Garpida](https://github.com/LeodominickGarpida)
-- Frontend Mentor - [@LeodominickGarpida](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@LeodominickGarpida](https://www.frontendmentor.io/profile/LeodominickGarpida)
 
 
 
